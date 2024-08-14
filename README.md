@@ -14,7 +14,7 @@
 | PvP Games Store v1  | [source](./contracts/games/PvPGamesStore.sol) | [doc](./docs/games/PvPGamesStore.md)  | [graph](./graphs/PvPGamesStore.svg)  |  |
 
 ## Deployments
-
+ 
 [Listed on the documentation](https://documentation.betswirl.com/ecosystem/contracts)
 
 ## Build
